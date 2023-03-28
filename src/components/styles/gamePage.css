@@ -1,0 +1,27 @@
+
+.card{
+    border: 2px black solid;
+    margin-left: 46.5%;
+    margin-bottom: 15px;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    color:white;
+    font-weight: 800;
+    padding-top: 40px;
+}
+
+#GnamePageBtn{
+    width: 100px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: lime;
+    color: blue;
+    font-size: small;
+    font-weight: 900;
+}
+#gamePageDiv{
+    margin-top: -22px;
+    height: 713px;
+    background: linear-gradient(to left, #00aaff, #00ddff, #00ff6c);
+}
