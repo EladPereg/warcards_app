@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/warcards_app/static/css/main.c0a9ac71.css",
+    "main.js": "/warcards_app/static/js/main.f37d4569.js",
+    "static/js/787.5859c2c6.chunk.js": "/warcards_app/static/js/787.5859c2c6.chunk.js",
+    "static/media/HomePageCardsss.jpg": "/warcards_app/static/media/HomePageCardsss.d70aa0fbed2d50f206ec.jpg",
+    "index.html": "/warcards_app/index.html",
+    "main.c0a9ac71.css.map": "/warcards_app/static/css/main.c0a9ac71.css.map",
+    "main.f37d4569.js.map": "/warcards_app/static/js/main.f37d4569.js.map",
+    "787.5859c2c6.chunk.js.map": "/warcards_app/static/js/787.5859c2c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0a9ac71.css",
+    "static/js/main.f37d4569.js"
+  ]
+}
