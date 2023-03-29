@@ -52,8 +52,8 @@ export default function Scorepage(props) {
         }
         else if (props.tie === true) {
             return <div>
-                <h1 style={{ color: 'green' }}>You almost win </h1>
-                <h3 style={{ color: 'green' }}>Your points status is -</h3>   <h2 style={{ color: 'green' }}>{`wins=${props.player.wins}/loses=${props.player.loses}/tie=${props.player.tie}`}</h2>
+                <h1 style={{ color: 'orange' }}>You almost win </h1>
+                <h3 style={{ color: 'orange' }}>Your points status is -</h3>   <h2 style={{ color: 'orange' }}>{`wins=${props.player.wins}/loses=${props.player.loses}/tie=${props.player.tie}`}</h2>
             </div>
         }
     }
